@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\myTech Systems\\Desktop\\C#SMNR_8\\TSK_2\\TSK_2.csproj": {}
+    "/home/mytech_systems/Desktop/C#SMNR_8/TSK_2/TSK_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\myTech Systems\\Desktop\\C#SMNR_8\\TSK_2\\TSK_2.csproj": {
+    "/home/mytech_systems/Desktop/C#SMNR_8/TSK_2/TSK_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\myTech Systems\\Desktop\\C#SMNR_8\\TSK_2\\TSK_2.csproj",
+        "projectUniqueName": "/home/mytech_systems/Desktop/C#SMNR_8/TSK_2/TSK_2.csproj",
         "projectName": "TSK_2",
-        "projectPath": "C:\\Users\\myTech Systems\\Desktop\\C#SMNR_8\\TSK_2\\TSK_2.csproj",
-        "packagesPath": "C:\\Users\\myTech Systems\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\myTech Systems\\Desktop\\C#SMNR_8\\TSK_2\\obj\\",
+        "projectPath": "/home/mytech_systems/Desktop/C#SMNR_8/TSK_2/TSK_2.csproj",
+        "packagesPath": "/home/mytech_systems/.nuget/packages/",
+        "outputPath": "/home/mytech_systems/Desktop/C#SMNR_8/TSK_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\myTech Systems\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/mytech_systems/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
